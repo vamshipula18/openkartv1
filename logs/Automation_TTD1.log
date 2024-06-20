@@ -1,0 +1,232 @@
+2024-06-18 15:30:40,431 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 15:30:45,247 : INFO : test_003_DDT : Clicking on login
+2024-06-18 15:31:23,607 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 15:31:30,815 : INFO : test_003_DDT : Clicking on login
+2024-06-18 15:31:52,590 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 15:31:57,885 : INFO : test_003_DDT : Clicking on login
+2024-06-18 15:31:58,281 : INFO : test_003_DDT : Entering email
+2024-06-18 15:32:03,395 : INFO : test_003_DDT : Entering Password
+2024-06-18 15:32:03,480 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 15:32:13,550 : INFO : test_003_DDT : Entering email
+2024-06-18 15:32:13,663 : INFO : test_003_DDT : Entering Password
+2024-06-18 15:32:13,729 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 15:32:23,748 : INFO : test_003_DDT : logging out after failing invalid credintials Login
+2024-06-18 15:33:53,628 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 15:33:58,913 : INFO : test_003_DDT : Clicking on login
+2024-06-18 15:33:59,214 : INFO : test_003_DDT : Entering email
+2024-06-18 15:34:04,438 : INFO : test_003_DDT : Entering Password
+2024-06-18 15:34:04,508 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 15:34:14,531 : INFO : test_003_DDT : Entering email
+2024-06-18 15:34:14,642 : INFO : test_003_DDT : Entering Password
+2024-06-18 15:34:14,709 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 15:34:24,712 : INFO : test_003_DDT : logging out after failing invalid credintials Login
+2024-06-18 15:37:53,823 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-18 15:37:53,824 : INFO : test_AccountReg : hitting the url
+2024-06-18 15:37:55,229 : INFO : test_AccountReg : clicking on myaccount
+2024-06-18 15:37:57,295 : INFO : test_AccountReg : clicking on register
+2024-06-18 15:37:59,667 : INFO : test_AccountReg : setting the firstname
+2024-06-18 15:38:04,885 : INFO : test_AccountReg : setting the last name
+2024-06-18 15:38:04,945 : INFO : test_AccountReg : entering email
+2024-06-18 15:38:05,042 : INFO : test_AccountReg : setting password
+2024-06-18 15:38:07,109 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-18 15:38:27,231 : INFO : test_AccountReg : checking the success message
+2024-06-18 16:00:19,966 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:00:25,697 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:01:31,379 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:01:36,758 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:01:37,144 : INFO : test_003_DDT : Entering email
+2024-06-18 16:01:42,417 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:01:42,510 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:01:47,602 : INFO : test_003_DDT : Entering email
+2024-06-18 16:01:47,721 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:01:47,789 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:01:52,806 : INFO : test_003_DDT : logging out after failing invalid credintials Login
+2024-06-18 16:06:08,077 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-18 16:06:08,079 : INFO : test_AccountReg : hitting the url
+2024-06-18 16:06:09,730 : INFO : test_AccountReg : clicking on myaccount
+2024-06-18 16:06:17,468 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-18 16:06:17,468 : INFO : test_AccountReg : hitting the url
+2024-06-18 16:06:17,903 : INFO : test_AccountReg : clicking on myaccount
+2024-06-18 16:06:24,687 : INFO : test_AccountReg : clicking on register
+2024-06-18 16:06:46,588 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-18 16:06:46,588 : INFO : test_AccountReg : hitting the url
+2024-06-18 16:06:47,612 : INFO : test_AccountReg : clicking on myaccount
+2024-06-18 16:06:50,218 : INFO : test_AccountReg : clicking on register
+2024-06-18 16:07:18,764 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-18 16:07:18,765 : INFO : test_AccountReg : hitting the url
+2024-06-18 16:07:19,759 : INFO : test_AccountReg : clicking on myaccount
+2024-06-18 16:07:21,814 : INFO : test_AccountReg : clicking on register
+2024-06-18 16:07:24,238 : INFO : test_AccountReg : setting the firstname
+2024-06-18 16:07:36,286 : INFO : test_AccountReg : setting the last name
+2024-06-18 16:07:36,333 : INFO : test_AccountReg : entering email
+2024-06-18 16:07:36,435 : INFO : test_AccountReg : setting password
+2024-06-18 16:07:38,511 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-18 16:07:45,224 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-18 16:07:45,226 : INFO : test_AccountReg : hitting the url
+2024-06-18 16:07:46,722 : INFO : test_AccountReg : clicking on myaccount
+2024-06-18 16:07:48,813 : INFO : test_AccountReg : clicking on register
+2024-06-18 16:07:51,404 : INFO : test_AccountReg : setting the firstname
+2024-06-18 16:07:51,516 : INFO : test_AccountReg : setting the last name
+2024-06-18 16:07:51,583 : INFO : test_AccountReg : entering email
+2024-06-18 16:07:51,694 : INFO : test_AccountReg : setting password
+2024-06-18 16:07:53,771 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-18 16:08:13,951 : INFO : test_AccountReg : checking the success message
+2024-06-18 16:09:58,289 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:10:03,754 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:10:04,444 : INFO : test_003_DDT : Entering email
+2024-06-18 16:10:45,364 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:10:50,822 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:10:51,206 : INFO : test_003_DDT : Entering email
+2024-06-18 16:10:57,721 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:10:57,816 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:11:03,293 : INFO : test_003_DDT : Entering email
+2024-06-18 16:11:05,440 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:11:05,507 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:11:10,555 : INFO : test_003_DDT : logging out after failing invalid credintials Login
+2024-06-18 16:12:00,158 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:12:05,637 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:12:06,055 : INFO : test_003_DDT : Entering email
+2024-06-18 16:12:11,749 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:12:11,883 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:12:17,497 : INFO : test_003_DDT : Entering email
+2024-06-18 16:12:19,589 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:12:19,707 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:12:24,765 : INFO : test_003_DDT : logging out after failing invalid credintials Login
+2024-06-18 16:13:49,054 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:13:54,987 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:13:55,629 : INFO : test_003_DDT : Entering email
+2024-06-18 16:14:01,650 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:14:01,778 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:14:07,279 : INFO : test_003_DDT : Entering email
+2024-06-18 16:14:09,391 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:14:09,508 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:14:14,541 : INFO : test_003_DDT : logging out after failing invalid credintials Login
+2024-06-18 16:16:12,966 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:16:18,665 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:16:19,231 : INFO : test_003_DDT : Entering email
+2024-06-18 16:16:25,557 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:16:25,713 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:16:31,796 : INFO : test_003_DDT : Entering email
+2024-06-18 16:16:33,893 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:16:34,015 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:16:40,043 : INFO : test_003_DDT : Entering email
+2024-06-18 16:16:42,139 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:16:42,256 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:16:47,774 : INFO : test_003_DDT : Entering email
+2024-06-18 16:16:49,885 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:16:49,986 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:16:55,484 : INFO : test_003_DDT : Entering email
+2024-06-18 16:16:57,615 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:17:47,907 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:17:53,336 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:17:54,012 : INFO : test_003_DDT : Entering email
+2024-06-18 16:17:56,153 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:17:56,279 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:18:01,795 : INFO : test_003_DDT : Entering email
+2024-06-18 16:18:03,935 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:18:04,036 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:18:09,481 : INFO : test_003_DDT : Entering email
+2024-06-18 16:18:11,566 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:18:11,700 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:18:17,692 : INFO : test_003_DDT : Entering email
+2024-06-18 16:18:19,794 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:18:19,910 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:18:26,006 : INFO : test_003_DDT : Entering email
+2024-06-18 16:18:28,092 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:20:31,286 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:20:36,829 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:20:37,356 : INFO : test_003_DDT : Entering email
+2024-06-18 16:28:35,606 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:28:41,285 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:28:42,469 : INFO : test_003_DDT : Entering email
+2024-06-18 16:28:44,590 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:28:44,708 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:28:50,166 : INFO : test_003_DDT : Entering email
+2024-06-18 16:28:52,264 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:28:52,379 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:28:57,862 : INFO : test_003_DDT : Entering email
+2024-06-18 16:28:59,961 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:29:00,092 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:29:05,573 : INFO : test_003_DDT : Entering email
+2024-06-18 16:29:07,690 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:29:07,807 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:29:13,321 : INFO : test_003_DDT : Entering email
+2024-06-18 16:29:15,436 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:30:59,329 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:31:04,541 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:31:15,556 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:31:21,524 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:31:32,826 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:31:38,250 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:31:38,676 : INFO : test_003_DDT : Entering email
+2024-06-18 16:31:44,255 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:31:44,353 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:31:49,904 : INFO : test_003_DDT : Entering email
+2024-06-18 16:31:52,018 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:31:52,132 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:31:57,584 : INFO : test_003_DDT : Entering email
+2024-06-18 16:31:59,697 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:31:59,813 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:32:05,297 : INFO : test_003_DDT : Entering email
+2024-06-18 16:32:07,393 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:32:07,510 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:32:12,959 : INFO : test_003_DDT : Entering email
+2024-06-18 16:32:15,073 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:32:15,190 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:32:20,788 : INFO : test_003_DDT : Checking lst_status 
+2024-06-18 16:33:25,911 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:33:31,040 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:33:42,435 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:33:47,575 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:34:07,383 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:34:12,759 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:34:58,219 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:35:03,712 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:35:04,180 : INFO : test_003_DDT : Entering email
+2024-06-18 16:35:33,982 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:35:39,035 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:35:49,484 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:35:54,553 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:36:05,217 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:36:11,073 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:36:15,195 : INFO : test_003_DDT : Entering email
+2024-06-18 16:36:39,724 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:36:45,365 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:37:16,714 : INFO : test_003_DDT : Hitting the Application
+2024-06-18 16:37:21,975 : INFO : test_003_DDT : Clicking on login
+2024-06-18 16:37:22,557 : INFO : test_003_DDT : Entering email
+2024-06-18 16:37:24,704 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:37:24,827 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:37:30,286 : INFO : test_003_DDT : Entering email
+2024-06-18 16:37:32,498 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:37:32,598 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:37:38,037 : INFO : test_003_DDT : Entering email
+2024-06-18 16:37:40,144 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:37:40,244 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:37:45,760 : INFO : test_003_DDT : Entering email
+2024-06-18 16:37:47,858 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:37:47,991 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:37:53,404 : INFO : test_003_DDT : Entering email
+2024-06-18 16:37:55,538 : INFO : test_003_DDT : Entering Password
+2024-06-18 16:37:55,655 : INFO : test_003_DDT : Checking is My Account Page Exists
+2024-06-18 16:38:01,164 : INFO : test_003_DDT : Checking lst_status 
+2024-06-19 18:38:06,156 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 18:38:06,157 : INFO : test_AccountReg : hitting the url
+2024-06-19 18:39:09,349 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 18:39:09,350 : INFO : test_AccountReg : hitting the url
+2024-06-19 18:39:33,149 : INFO : test_AccountReg : clicking on myaccount
+2024-06-19 18:40:00,358 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 18:40:00,359 : INFO : test_AccountReg : hitting the url
+2024-06-19 18:40:16,383 : INFO : test_AccountReg : clicking on myaccount
+2024-06-19 18:41:31,700 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 18:41:31,703 : INFO : test_AccountReg : hitting the url
+2024-06-19 18:42:11,101 : INFO : test_AccountReg : clicking on myaccount
+2024-06-19 18:42:31,194 : INFO : test_login : *****Testing Login method*****
+2024-06-19 18:42:31,194 : INFO : test_login : hitting the url
+2024-06-19 18:44:21,293 : INFO : test_login : clicking on my account
+2024-06-19 18:44:36,311 : INFO : test_003_DDT : Hitting the Application
+2024-06-19 18:48:32,823 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 18:48:32,824 : INFO : test_AccountReg : hitting the url
+2024-06-19 18:52:14,012 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 18:52:14,013 : INFO : test_AccountReg : hitting the url
+2024-06-19 18:53:55,253 : INFO : test_AccountReg : clicking on myaccount

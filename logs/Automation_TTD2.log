@@ -1,0 +1,9 @@
+2024-06-19 20:01:50,957 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 20:01:50,958 : INFO : test_AccountReg : hitting the url
+2024-06-19 20:04:51,969 : INFO : test_AccountReg : clicking on myaccount
+2024-06-19 21:37:28,713 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-19 21:37:28,713 : INFO : test_AccountReg : hitting the url
+2024-06-19 21:37:38,657 : INFO : test_AccountReg : clicking on myaccount
+2024-06-19 21:37:42,340 : INFO : test_login : *****Testing Login method*****
+2024-06-19 21:37:42,340 : INFO : test_login : hitting the url
+2024-06-19 21:37:45,522 : INFO : test_003_DDT : Hitting the Application

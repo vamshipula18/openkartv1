@@ -1,0 +1,220 @@
+2024-06-17 22:33:45,193 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:33:45,195 : INFO : test_AccountReg : hitting the url
+2024-06-17 22:33:46,812 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 22:33:47,463 : INFO : test_AccountReg : clicking on register
+2024-06-17 22:34:05,380 : INFO : test_login : *****Testing Login method*****
+2024-06-17 22:34:05,380 : INFO : test_login : hitting the url
+2024-06-17 22:34:07,254 : INFO : test_login : clicking on my account
+2024-06-17 22:36:15,573 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:36:15,576 : INFO : test_AccountReg : hitting the url
+2024-06-17 22:36:16,985 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 22:36:19,120 : INFO : test_AccountReg : clicking on register
+2024-06-17 22:36:21,895 : INFO : test_AccountReg : setting the firstname
+2024-06-17 22:36:22,105 : INFO : test_AccountReg : setting the last name
+2024-06-17 22:36:22,227 : INFO : test_AccountReg : entering email
+2024-06-17 22:36:22,628 : INFO : test_AccountReg : setting password
+2024-06-17 22:36:24,846 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 22:36:30,262 : INFO : test_AccountReg : checking the success message
+2024-06-17 22:36:30,481 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 22:36:33,215 : INFO : test_login : *****Testing Login method*****
+2024-06-17 22:36:33,215 : INFO : test_login : hitting the url
+2024-06-17 22:36:35,094 : INFO : test_login : clicking on my account
+2024-06-17 22:38:25,625 : INFO : test_login : *****Testing Login method*****
+2024-06-17 22:38:25,625 : INFO : test_login : hitting the url
+2024-06-17 22:38:27,503 : INFO : test_login : clicking on my account
+2024-06-17 22:38:33,138 : INFO : test_login : Entering Email
+2024-06-17 22:38:40,790 : INFO : test_login : Entering Password
+2024-06-17 22:38:40,928 : INFO : test_login : clicking on submit
+2024-06-17 22:38:44,006 : INFO : test_login : checking if myaccount exists
+2024-06-17 22:38:44,314 : INFO : test_login : *****End Of the Login Test*****
+2024-06-17 22:38:58,098 : INFO : test_login : *****Testing Login method*****
+2024-06-17 22:38:58,098 : INFO : test_login : hitting the url
+2024-06-17 22:38:59,858 : INFO : test_login : clicking on my account
+2024-06-17 22:39:05,905 : INFO : test_login : Entering Email
+2024-06-17 22:39:06,345 : INFO : test_login : Entering Password
+2024-06-17 22:39:06,524 : INFO : test_login : clicking on submit
+2024-06-17 22:39:09,698 : INFO : test_login : checking if myaccount exists
+2024-06-17 22:39:09,869 : INFO : test_login : *****End Of the Login Test*****
+2024-06-17 22:51:01,993 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:51:01,995 : INFO : test_AccountReg : hitting the url
+2024-06-17 22:51:03,815 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 22:51:06,449 : INFO : test_AccountReg : clicking on register
+2024-06-17 22:52:08,593 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:52:08,595 : INFO : test_AccountReg : hitting the url
+2024-06-17 22:52:10,256 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 22:52:12,401 : INFO : test_AccountReg : clicking on register
+2024-06-17 22:52:15,740 : INFO : test_AccountReg : setting the firstname
+2024-06-17 22:52:15,986 : INFO : test_AccountReg : setting the last name
+2024-06-17 22:52:16,156 : INFO : test_AccountReg : entering email
+2024-06-17 22:52:16,443 : INFO : test_AccountReg : setting password
+2024-06-17 22:52:18,629 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 22:52:23,923 : INFO : test_AccountReg : checking the success message
+2024-06-17 22:52:25,449 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 22:57:02,207 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:57:02,214 : INFO : test_AccountReg : hitting the url
+2024-06-17 22:57:03,748 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 22:57:06,314 : INFO : test_AccountReg : clicking on register
+2024-06-17 22:57:26,327 : INFO : test_login : *****Testing Login method*****
+2024-06-17 22:57:26,327 : INFO : test_login : hitting the url
+2024-06-17 22:57:28,176 : INFO : test_login : clicking on my account
+2024-06-17 22:57:56,987 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:57:56,988 : INFO : test_AccountReg : hitting the url
+2024-06-17 22:57:58,617 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 22:58:00,839 : INFO : test_AccountReg : clicking on register
+2024-06-17 22:58:03,813 : INFO : test_AccountReg : setting the firstname
+2024-06-17 22:58:04,166 : INFO : test_AccountReg : setting the last name
+2024-06-17 22:58:04,482 : INFO : test_AccountReg : entering email
+2024-06-17 22:58:04,814 : INFO : test_AccountReg : setting password
+2024-06-17 22:58:07,045 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 22:59:01,533 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:59:01,536 : INFO : test_AccountReg : hitting the url
+2024-06-17 22:59:03,049 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 22:59:05,647 : INFO : test_AccountReg : clicking on register
+2024-06-17 22:59:59,693 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 22:59:59,695 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:00:01,013 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:00:03,225 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:00:06,057 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:00:17,177 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:00:17,280 : INFO : test_AccountReg : entering email
+2024-06-17 23:00:17,544 : INFO : test_AccountReg : setting password
+2024-06-17 23:00:19,838 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:00:40,137 : INFO : test_AccountReg : checking the success message
+2024-06-17 23:01:30,417 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:01:30,418 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:01:31,894 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:01:34,109 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:01:36,743 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:01:46,583 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:01:46,844 : INFO : test_AccountReg : entering email
+2024-06-17 23:01:47,126 : INFO : test_AccountReg : setting password
+2024-06-17 23:01:49,240 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:01:54,679 : INFO : test_AccountReg : checking the success message
+2024-06-17 23:01:56,626 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 23:01:59,179 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:01:59,179 : INFO : test_login : hitting the url
+2024-06-17 23:02:00,851 : INFO : test_login : clicking on my account
+2024-06-17 23:02:27,938 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:02:27,938 : INFO : test_login : hitting the url
+2024-06-17 23:02:29,992 : INFO : test_login : clicking on my account
+2024-06-17 23:02:35,883 : INFO : test_login : Entering Email
+2024-06-17 23:02:36,305 : INFO : test_login : Entering Password
+2024-06-17 23:02:36,607 : INFO : test_login : clicking on submit
+2024-06-17 23:02:39,823 : INFO : test_login : checking if myaccount exists
+2024-06-17 23:02:40,002 : INFO : test_login : *****End Of the Login Test*****
+2024-06-17 23:03:04,414 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:03:04,417 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:03:05,888 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:03:08,535 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:03:28,376 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:03:28,376 : INFO : test_login : hitting the url
+2024-06-17 23:03:30,338 : INFO : test_login : clicking on my account
+2024-06-17 23:03:36,543 : INFO : test_login : Entering Email
+2024-06-17 23:03:37,003 : INFO : test_login : Entering Password
+2024-06-17 23:03:37,241 : INFO : test_login : clicking on submit
+2024-06-17 23:03:40,436 : INFO : test_login : checking if myaccount exists
+2024-06-17 23:04:39,561 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:04:39,562 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:04:41,311 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:04:43,626 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:04:46,223 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:04:55,802 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:04:55,985 : INFO : test_AccountReg : entering email
+2024-06-17 23:04:56,322 : INFO : test_AccountReg : setting password
+2024-06-17 23:04:58,425 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:05:03,877 : INFO : test_AccountReg : checking the success message
+2024-06-17 23:05:05,907 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 23:05:08,545 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:05:08,545 : INFO : test_login : hitting the url
+2024-06-17 23:05:10,257 : INFO : test_login : clicking on my account
+2024-06-17 23:06:35,071 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:06:35,071 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:06:36,693 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:06:39,049 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:06:42,468 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:06:42,664 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:06:42,875 : INFO : test_AccountReg : entering email
+2024-06-17 23:06:43,282 : INFO : test_AccountReg : setting password
+2024-06-17 23:06:45,560 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:06:51,048 : INFO : test_AccountReg : checking the success message
+2024-06-17 23:06:52,514 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 23:06:55,207 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:06:55,207 : INFO : test_login : hitting the url
+2024-06-17 23:06:56,953 : INFO : test_login : clicking on my account
+2024-06-17 23:17:03,696 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:17:03,698 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:17:05,244 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:17:07,983 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:17:28,115 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:17:28,116 : INFO : test_login : hitting the url
+2024-06-17 23:17:33,350 : INFO : test_login : clicking on my account
+2024-06-17 23:17:39,004 : INFO : test_login : Entering Email
+2024-06-17 23:17:47,288 : INFO : test_login : Entering Password
+2024-06-17 23:17:47,388 : INFO : test_login : clicking on submit
+2024-06-17 23:17:50,469 : INFO : test_login : checking if myaccount exists
+2024-06-17 23:18:17,016 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:18:17,018 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:18:18,499 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:18:20,603 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:18:23,986 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:18:24,126 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:18:24,332 : INFO : test_AccountReg : entering email
+2024-06-17 23:18:24,782 : INFO : test_AccountReg : setting password
+2024-06-17 23:18:27,117 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:18:32,605 : INFO : test_AccountReg : checking the success message
+2024-06-17 23:18:34,458 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 23:18:36,950 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:18:36,950 : INFO : test_login : hitting the url
+2024-06-17 23:18:41,872 : INFO : test_login : clicking on my account
+2024-06-17 23:20:07,974 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:20:07,976 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:20:09,436 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:20:11,639 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:20:14,437 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:20:14,589 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:20:14,687 : INFO : test_AccountReg : entering email
+2024-06-17 23:20:14,855 : INFO : test_AccountReg : setting password
+2024-06-17 23:20:17,046 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:20:20,608 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:20:20,609 : INFO : test_login : hitting the url
+2024-06-17 23:20:22,042 : INFO : test_login : clicking on my account
+2024-06-17 23:20:37,340 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:20:37,343 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:20:38,763 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:20:41,579 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:20:52,600 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:20:52,600 : INFO : test_login : hitting the url
+2024-06-17 23:20:53,866 : INFO : test_login : clicking on my account
+2024-06-17 23:21:09,631 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:21:09,634 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:21:10,550 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:21:12,665 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:21:15,116 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:21:24,281 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:21:24,404 : INFO : test_AccountReg : entering email
+2024-06-17 23:21:24,747 : INFO : test_AccountReg : setting password
+2024-06-17 23:21:26,996 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:21:32,440 : INFO : test_AccountReg : checking the success message
+2024-06-17 23:21:33,880 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 23:21:36,609 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:21:36,609 : INFO : test_login : hitting the url
+2024-06-17 23:21:38,500 : INFO : test_login : clicking on my account
+2024-06-17 23:22:54,420 : INFO : test_AccountReg : ***Start of test_AccountReg***
+2024-06-17 23:22:54,420 : INFO : test_AccountReg : hitting the url
+2024-06-17 23:22:55,922 : INFO : test_AccountReg : clicking on myaccount
+2024-06-17 23:22:58,136 : INFO : test_AccountReg : clicking on register
+2024-06-17 23:23:00,771 : INFO : test_AccountReg : setting the firstname
+2024-06-17 23:23:10,711 : INFO : test_AccountReg : setting the last name
+2024-06-17 23:23:10,960 : INFO : test_AccountReg : entering email
+2024-06-17 23:23:11,119 : INFO : test_AccountReg : setting password
+2024-06-17 23:23:13,272 : INFO : test_AccountReg : clicking on privacy policy
+2024-06-17 23:23:18,562 : INFO : test_AccountReg : checking the success message
+2024-06-17 23:23:19,656 : INFO : test_AccountReg : ***End of Test_AccountReg***
+2024-06-17 23:23:21,611 : INFO : test_login : *****Testing Login method*****
+2024-06-17 23:23:21,611 : INFO : test_login : hitting the url
+2024-06-17 23:23:23,140 : INFO : test_login : clicking on my account
+2024-06-17 23:23:29,146 : INFO : test_login : Entering Email
+2024-06-17 23:23:29,524 : INFO : test_login : Entering Password
+2024-06-17 23:23:29,719 : INFO : test_login : clicking on submit
+2024-06-17 23:23:32,904 : INFO : test_login : checking if myaccount exists
+2024-06-17 23:23:33,142 : INFO : test_login : *****End Of the Login Test*****
